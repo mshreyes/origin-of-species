@@ -1,6 +1,6 @@
 # On the Origin of Species — Enhanced Reader
 
-An interactive web version of Charles Darwin's *On the Origin of Species* (1859 First Edition), brought to you via Project Gutenberg[cite: 1, 2]. 
+An interactive web version of Charles Darwin's *On the Origin of Species* (1859 First Edition), brought to you via Project Gutenberg. 
 
 This project aims to make this classic book easier and more engaging to read by adding helpful study resources, Wikipedia tooltips, and clear modern science notes directly into the pages.
 
@@ -18,12 +18,12 @@ This project aims to make this classic book easier and more engaging to read by 
 
 ## Credits & Attribution
 
-* **Book Text:** The text is provided by **Project Gutenberg** (eBook #1228), cleaned and proofread by volunteers[cite: 1, 2].
+* **Book Text:** The text is provided by **Project Gutenberg** (eBook #1228), cleaned and proofread by volunteers.
 * **Project Goal:** Created to help more people explore, read, and understand evolutionary science by combining a clean reading interface with helpful learning tools.
 
 ---
 
 ## Copyright & License
 
-* **Project Gutenberg Text:** Public domain in the United States. Free to use under the [Project Gutenberg License](https://www.gutenberg.org/policy/license.html)[cite: 1, 2].
+* **Project Gutenberg Text:** Public domain in the United States. Free to use under the [Project Gutenberg License](https://www.gutenberg.org/policy/license.html).
 * **Reader Code & Add-ons:** Open-source software available under the MIT License.
